@@ -193,3 +193,6 @@ Triangular region mask, a quadrilateral region mask using the cv2.fillPoly() fun
     lines_edges = cv2.addWeighted(color_edges, 0.8, line_image, 1, 0) 
     plt.imshow(lines_edges)
 
+
+References
+https://www.youtube.com/watch?v=hnXkCiM2RSg&feature=youtu.be
