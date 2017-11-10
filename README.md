@@ -11,4 +11,5 @@ https://classroom.udacity.com/courses/ud1111
 4. Gaussian smoothing
 5. Hough Transform
 6. region of interest mask
-7. 
+
+
